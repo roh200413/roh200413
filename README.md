@@ -1,6 +1,7 @@
-<h1>### 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h1>
+<h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2>
 
-<div align=center><h1>📚 기술 스택</h1></div>
+<div align=center><h3>👨🏽‍💻 자기 소개</h3></div>
+<div align=center><h3>📚 기술 스택</h3></div>
 
 <div align=center> 
   
