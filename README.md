@@ -1,6 +1,11 @@
 ### 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C#&logoColor=Black"/></a>
+
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+</div>
 <!--
 **roh200413/roh200413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
