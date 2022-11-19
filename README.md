@@ -1,6 +1,6 @@
 ### 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 기술 스택</h1></div>
 
 <div align=center> 
   
