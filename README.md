@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋
 
 <!--
 **roh200413/roh200413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
