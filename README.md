@@ -3,11 +3,14 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
+  
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-%2300599C.svg?style=flat-square&logo=WPF&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tensorflow-FF9900?style=flat-square&logo=Tensorflow&logoColor=White"/>
   <img src="https://img.shields.io/badge/Keras-FFCC33?style=flat-square&logo=Keras&logoColor=White"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
