@@ -5,8 +5,8 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <br/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-squar&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
