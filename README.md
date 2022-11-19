@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Seunghee's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seunghee's%20Github&fontSize=90" />
 <h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2>
 
 <div align=center><h3>👨🏽‍💻 자기 소개</h3></div>
