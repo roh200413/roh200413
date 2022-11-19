@@ -1,14 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
 <h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2><hr/>
 
-<h3>👨🏽‍💻 자기 소개</h3>
-<hr/>
+<h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
 - ⚡️저는 부산 빅데이터 혁신센터에서 머신러닝 멘토를 맡았습니다!<br/>
 - 📫저를 찾으신다면 sdf8036@naver.com으로 연락주세요!<br/>
 
-<h3>📚 기술 스택</h3>
-<hr/>
+<h2>📚 기술 스택</h2>
 <div align=center> 
   
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
