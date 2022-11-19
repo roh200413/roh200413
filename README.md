@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
 <h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2>
 
-<div align=center><h3>👨🏽‍💻 자기 소개</h3></div>
+<h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 3년 8개월간 일했어요!<br/>
 - ⚡️저는 부산 빅데이터 혁신센터에서 머신러닝 멘토를 맡았습니다!<br/>
 - 📫저를 찾으신다면 sdf8036@naver.com으로 연락주세요!<br/>
 
-<div align=center><h3>📚 기술 스택</h3></div>
+<h3>📚 기술 스택</h3>
 
 <div align=center> 
   
