@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
-<h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2><hr/>
+<h2> 안녕하세요, 새로운 도전을 좋아하는 개발자 노승희입니다! 👋</h2>
 
 <h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
