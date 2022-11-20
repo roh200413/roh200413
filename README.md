@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
 <h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
-- 👨‍💻직장과 병행하여 창원대 산업대학원 정보통신공학과에서 딥러닝을 전공하고, 과일 불량 탐지 시스템을 개발하였습니다.<br/>
 - ⚡️저는 부산 빅데이터 혁신센터에서 머신러닝 멘토를 맡았습니다!<br/>
 - ⚡️저는 딥러닝 개발자로 준비하고 있습니다. 비전을 주로 공부했어요~!<br/>
 - 📫저를 찾으신다면 sdf8036@naver.com으로 연락주세요!<br/>
