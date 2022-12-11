@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true" width=300>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=200>
+  <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true" width=400>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=300>
 </div>
-<br><br>
 <h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
 - ⚡️저는 부산 빅데이터 혁신센터에서 머신러닝 멘토를 맡았습니다!<br/>
