@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact">
+</div>
 <br><br>
 <h2>👨🏽‍💻 자기 소개</h2>
 - 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
