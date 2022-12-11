@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghee's%20Github&fontSize=60" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true" width=300>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=200>
 </div>
 <br><br>
 <h2>👨🏽‍💻 자기 소개</h2>
