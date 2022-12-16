@@ -4,7 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=300>
 </div>
 <h2>👨🏽‍💻 자기 소개</h2>
-- 👨‍💻c#, 윈도우 어플 개발자로 스마트 그리드 업계에서 일했어요!<br/>
+- 👨‍💻스마트 그리드 업계에서 EMS 솔루션을 개발했습니다!<br/>
+- 👨‍💻대학원에서 딥러닝을 사용한 과일 불량 검출을 연구했습니다!<br/>
 - ⚡️저는 부산 빅데이터 혁신센터에서 머신러닝 멘토를 맡았습니다!<br/>
 - ⚡️저는 딥러닝 개발자로 준비하고 있습니다. 비전을 주로 공부했어요~!<br/>
 - 📫저를 찾으신다면 sdf8036@naver.com으로 연락주세요!<br/>
