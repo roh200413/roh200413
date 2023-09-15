@@ -4,10 +4,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=300>
 </div>
 <h2>👨🏽‍💻 경력</h2>
-<br/>- TIS 연구개발팀(2019.01~2022.07)
+- TIS 연구개발팀(2019.01~2022.07)
 <br/>- Pathfinder 개발팀(2022.08~2023.01, 2023.04~2023.07)
 <h2>👨🏽‍💻 프로젝트</h2>
-<br/>- Code for Busan 홈페이지 제작(23.06 ~ )
+- Code for Busan 홈페이지 제작(23.06 ~ )
 <br/>- Prompt-er Day Seoul 2023 Gen AI 해커톤(plantpal) - 진행중
 <br/>- 영어문제 자동 생성기 제작
 <br/>- 웨이트 트레이닝 루틴 생성기 제작
