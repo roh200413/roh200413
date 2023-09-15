@@ -3,12 +3,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true" width=400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=300>
 </div>
-<h2>👨🏽‍💻 자기 소개</h2>
-- 👨‍💻스마트 그리드 업계에서 EMS(Energy Management System) 솔루션을 개발했습니다!<br/>
-- 👨‍💻대학원에서 딥러닝을 사용한 과일 불량 검출에 관해 연구했습니다!<br/>
-- ⚡️저는 부산 빅데이터 혁신센터에서 AI 멘토를 맡았습니다.<br/>
-- ⚡️현재는 LLM 모델을 사용한 서비스 개발을 하고있습니다.<br/>
-- 📫저를 찾으신다면 sdf8036@naver.com으로 연락주세요!<br/>
+<h2>👨🏽‍💻 경력</h2>
+- TIS 연구개발팀(2019.01~2022.07)
+- Pathfinder 개발팀(2022.08~2023.01, 2023.04~2023.07)
+<h2>👨🏽‍💻 프로젝트</h2>
+- Code for Busan 홈페이지 제작(23.06 ~ )
+- Prompt-er Day Seoul 2023 Gen AI 해커톤(plantpal) - 진행중
+- 영어문제 자동 생성기 제작
+- 웨이트 트레이닝 루틴 생성기 제작
+  
 <br/><br/>
 <h2>📚 기술 스택</h2>
 <div align=center> 
