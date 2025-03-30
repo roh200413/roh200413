@@ -16,12 +16,6 @@
 <br/><br/>
 <h2>📚 기술 스택</h2>
 <div align=center> 
-  
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-%23239120.svg?style=flat-square&logo=WPF&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tensorflow-FF9900?style=flat-square&logo=Tensorflow&logoColor=White"/>
   <img src="https://img.shields.io/badge/Keras-FFCC33?style=flat-square&logo=Keras&logoColor=White"/>
@@ -35,7 +29,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 
-
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-%23239120.svg?style=flat-square&logo=WPF&logoColor=white"/>
 </div>
 <!--
 **roh200413/roh200413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
