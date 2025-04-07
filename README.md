@@ -3,11 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roh200413&show_icons=true" width=400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh200413&layout=compact" width=300>
 </div>
-<h2>👨🏽‍💻 경력</h2>
-- 딥아이 연구개발팀 팀장(2023.11.20~)
-<br/>- Pathfinder 개발팀(2022.08~2023.07)
-<br/>- TIS 연구개발팀(2019.01~2022.07)
-  
+
 <br/><br/>
 <h2>📚 기술 스택</h2>
 <div align=center> 
